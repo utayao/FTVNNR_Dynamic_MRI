@@ -16,13 +16,14 @@ FTVNNR was initially published in [MICCAI 2015](https://link.springer.com/chapte
 
 - MATLAB
 - A toolbox for compressive sensing (CS) magnetic resonance imaging (MRI) with structured sparsity [[MATLAB Code]](http://web.engr.illinois.edu/~cchen156/SSMRI.html)
-  - I have already integrate the toolbox in this repo. But please consider citing the above work.
+  - I have already integrated this toolbox here. But please consider citing the above work when using in your research.
 
 ### Demo
 Run the demo_FTVNNR.m and you will see the following results:
 
-![](results.png) 
-
+<p align="center">
+  <img align="center" src="results.png" width="600">
+</p>
 
 
 If you find FTVNNR useful in your research, please consider citing:
