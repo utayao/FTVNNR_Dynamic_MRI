@@ -21,7 +21,7 @@ FTVNNR was initially published in [MICCAI 2015](https://link.springer.com/chapte
 ### Demo
 Run the demo_FTVNNR.m and you will see the following results:
 
-![](data/imgs/gt.png) 
+![](results.png) 
 
 
 
